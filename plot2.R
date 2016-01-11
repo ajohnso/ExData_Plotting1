@@ -1,4 +1,4 @@
-setwd("C:/Users/Amelia/Desktop/USUHS/DissProject/Data Analysis Courses
+setwd("C:/Users/Data Analysis Courses
       /exdata-data-household_power_consumption")
 
 ## Read in household power consumption dataset, with only observations from 2/1/2007
